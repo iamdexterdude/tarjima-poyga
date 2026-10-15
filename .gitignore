@@ -1,0 +1,3 @@
+# the coursebook stays on this computer only
+*.pdf
+.claude/
