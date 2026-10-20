@@ -18,3 +18,9 @@ Live: https://iamdexterdude.github.io/tarjima-poyga/
 ## Adding sentences
 Edit `js/bank.js`. Each row is `[Uzbek, English pattern, tip]`:
 `(a|b)` means either word, `[a]` means optional. The first option is the model answer.
+
+## Unit 1–2 Test Race (`unit12/`)
+A timed test for New Round-Up 1, Unit 1 (a / an) and Unit 2 (plurals). 342 questions in six types
+(choose, fill the gap, word order, translate, fix the mistake, sort a / an), with picture questions,
+core questions first and a double-point challenge round at the end. Same race look, music, voice, saved
+history and CSV export as the translation race. Questions live in `unit12/js/test-bank.js`.
